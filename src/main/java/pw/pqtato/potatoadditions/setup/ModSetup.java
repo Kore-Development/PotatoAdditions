@@ -1,17 +1,11 @@
 package pw.pqtato.potatoadditions.setup;
 
 import net.minecraft.item.ItemGroup;
-import net.minecraft.item.ItemStack;
-import pw.pqtato.potatoadditions.blocks.ModBlocks;
+import pw.pqtato.potatoadditions.PotatoAdditionsTab;
 
 public class ModSetup {
 	
-	public ItemGroup itemGroup = new ItemGroup("potatoadditions") {
-		@Override
-		public ItemStack createIcon() {
-			return new ItemStack(ModBlocks.LAMP);
-		}
-	};
+	public ItemGroup itemGroup = new PotatoAdditionsTab();
 	
 	public void init() {
 		

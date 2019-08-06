@@ -2,10 +2,10 @@ modLoader="javafml" #mandatory
 loaderVersion="[26,)" #mandatory (26 is current forge version
 [[mods]] #mandatory
 modId="potatoadditions" #mandatory
-version="1.0.0" #mandatory
+version="1.0.1" #mandatory
 displayName="Potato Additions" #mandatory
 updateJSONURL="https://www.pqtato.pw/mod/update.json" #optional
-displayURL="https://www.pqtato.pw/mod/" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/potato-additions" #optional
 authors="Pqtato99 (thepqtatogalaxy)" #optional
 description='''
 Random additions created by Pqtato99
