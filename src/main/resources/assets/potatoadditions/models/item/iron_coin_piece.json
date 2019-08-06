@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "potatoadditions:item/iron_coin_piece"
+	}
+}

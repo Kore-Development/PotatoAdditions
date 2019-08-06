@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        },
+        {
+            "item": "potatoadditions:rainbow_coin_piece"
+        }
+    ],
+    "result": {
+        "item": "potatoadditions:rainbow_coin",
+        "count": 1
+    }
+}

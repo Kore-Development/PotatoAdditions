@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        },
+        {
+            "item": "potatoadditions:gold_coin_piece"
+        }
+    ],
+    "result": {
+        "item": "potatoadditions:gold_coin",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+	"item.potatoadditions.icon": "Icon",
+	"item.potatoadditions.rainbow_coin": "Rainbow Coin",
+	"item.potatoadditions.gold_coin": "Gold Coin",
+	"item.potatoadditions.iron_coin": "Iron Coin",
+	"item.potatoadditions.stone_coin": "Stone Coin",
+	"item.potatoadditions.rainbow_coin_piece": "Piece of a Rainbow Coin",
+	"item.potatoadditions.gold_coin_piece": "Piece of a Gold Coin",
+	"item.potatoadditions.iron_coin_piece": "Piece of a Iron Coin",
+	
+	"block.potatoadditions.lamp": "Lamp",
+	"block.potatoadditions.table": "Table",
+	"block.potatoadditions.ceiling_light": "Ceiling Light",
+	
+	"itemGroup.potatoadditions": "Potato Additions"
+}
